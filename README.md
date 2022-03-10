@@ -7,9 +7,8 @@ I am a recent software developer graduate looking for my first exciting role in 
 I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a work background in the health and care sector.
 
-### Tech Stack
 
-## Front End
+#### Front End
 
 ![image](https://user-images.githubusercontent.com/90627497/157759371-13cdeec4-734d-42d9-870c-8a25c32b2b1d.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759489-3006db42-5372-4d2d-b7f0-885d4944a191.png)
@@ -22,7 +21,7 @@ I have an academic background in Graphic Design and Visual Communication and a w
 ![image](https://user-images.githubusercontent.com/90627497/157760662-899f5e91-a5bd-43fc-9939-6bfa93fc2f5e.png)
 
 
-## Back End
+#### Back End
 
 ![image](https://user-images.githubusercontent.com/90627497/157759971-0145be57-16c3-417c-b087-6e9972286dcd.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760113-bc8f6079-9799-4743-84d3-dcdc98ad0bcd.png)
@@ -30,7 +29,7 @@ I have an academic background in Graphic Design and Visual Communication and a w
 ![image](https://user-images.githubusercontent.com/90627497/157760229-10c71b2b-cdd6-4456-8e21-d0a3f4662d7a.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760276-4020d8d9-f9f7-483f-a3fd-91fa90abd551.png)
 
-## Design
+#### Design
 
 ![image](https://user-images.githubusercontent.com/90627497/157760822-cb19fbb4-ed7a-49d5-83a2-5710436a82e7.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760843-17afff37-91f7-46d2-8f19-6c21af7b2eea.png)
