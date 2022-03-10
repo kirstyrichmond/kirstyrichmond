@@ -1,6 +1,6 @@
 # Kirsty Richmond
 
-### Welcome to my github!
+### Welcome to my github! :wave:
 
 I am a recent software developer graduate looking for my first exciting role in tech!
 
