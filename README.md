@@ -7,6 +7,9 @@ I am a recent software developer graduate looking for my first exciting role in 
 I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a professional background in the health and care sector.
 
+<hr />
+
+### Tech Stack
 
 #### Front End
 
@@ -34,6 +37,11 @@ I have an academic background in Graphic Design and Visual Communication and a p
 ![image](https://user-images.githubusercontent.com/90627497/157760822-cb19fbb4-ed7a-49d5-83a2-5710436a82e7.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760843-17afff37-91f7-46d2-8f19-6c21af7b2eea.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760904-66b2f266-5a66-4131-a7ab-b021cfbf2075.png)
+
+<hr />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirstyrichmond&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kirstyrichmond/kirstyrichmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
