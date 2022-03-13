@@ -7,6 +7,9 @@ I am a recent software developer graduate looking for my first exciting role in 
 I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a professional background in the health and care sector.
 
+[![image](https://user-images.githubusercontent.com/90627497/158056580-51ee4a60-6a9b-4fa3-b951-3a9e8112b8cd.png)](https://www.linkedin.com/in/kirstyrichmond/)
+
+
 <hr />
 
 #### Front End
@@ -45,16 +48,4 @@ I have an academic background in Graphic Design and Visual Communication and a p
 
 
 <!--
-**kirstyrichmond/kirstyrichmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
