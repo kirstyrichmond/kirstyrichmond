@@ -15,6 +15,7 @@ I have an academic background in Graphic Design and Visual Communication and a p
 ![image](https://user-images.githubusercontent.com/90627497/157759489-3006db42-5372-4d2d-b7f0-885d4944a191.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759598-1e341093-90c9-4103-bf08-a53dbdf353b3.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759646-9e905f0e-f95d-42aa-ab11-fade4b5b6efc.png)
+![image](https://user-images.githubusercontent.com/90627497/158056379-eca60558-4a1a-435a-a108-933db1200492.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759732-7e0debbf-ef55-4632-b140-e4e2341f908e.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759794-dc2b87b5-dd72-403d-bd23-2c3bd265aa81.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759831-1bb48e99-667f-4ccb-879e-c7cd962f163b.png)
@@ -24,10 +25,12 @@ I have an academic background in Graphic Design and Visual Communication and a p
 
 #### Back End
 
+![image](https://user-images.githubusercontent.com/90627497/158056391-276f5cda-9129-47c6-a610-a44f32b9a618.png)
 ![image](https://user-images.githubusercontent.com/90627497/157759971-0145be57-16c3-417c-b087-6e9972286dcd.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760113-bc8f6079-9799-4743-84d3-dcdc98ad0bcd.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760191-22f44d79-5e22-43a7-b26d-4dc78f019c34.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760229-10c71b2b-cdd6-4456-8e21-d0a3f4662d7a.png)
+![image](https://user-images.githubusercontent.com/90627497/158056347-d09aa75f-a336-4bf8-8a5b-9cd03f5710bd.png)
 ![image](https://user-images.githubusercontent.com/90627497/157760276-4020d8d9-f9f7-483f-a3fd-91fa90abd551.png)
 
 #### Design
