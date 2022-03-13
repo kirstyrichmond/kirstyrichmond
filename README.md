@@ -9,8 +9,6 @@ I have an academic background in Graphic Design and Visual Communication and a p
 
 <hr />
 
-### Tech Stack
-
 #### Front End
 
 ![image](https://user-images.githubusercontent.com/90627497/157759371-13cdeec4-734d-42d9-870c-8a25c32b2b1d.png)
