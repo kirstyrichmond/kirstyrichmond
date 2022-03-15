@@ -7,40 +7,41 @@ I am a recent software developer graduate looking for my first exciting role in 
 I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a professional background in the health and care sector.
 
-[![image](https://user-images.githubusercontent.com/90627497/158056580-51ee4a60-6a9b-4fa3-b951-3a9e8112b8cd.png)](https://www.linkedin.com/in/kirstyrichmond/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirstyrichmond/)
 
 
 <hr />
 
 #### Front End
 
-![image](https://user-images.githubusercontent.com/90627497/157759371-13cdeec4-734d-42d9-870c-8a25c32b2b1d.png)
-![image](https://user-images.githubusercontent.com/90627497/157759489-3006db42-5372-4d2d-b7f0-885d4944a191.png)
-![image](https://user-images.githubusercontent.com/90627497/157759598-1e341093-90c9-4103-bf08-a53dbdf353b3.png)
-![image](https://user-images.githubusercontent.com/90627497/157759646-9e905f0e-f95d-42aa-ab11-fade4b5b6efc.png)
-![image](https://user-images.githubusercontent.com/90627497/158056379-eca60558-4a1a-435a-a108-933db1200492.png)
-![image](https://user-images.githubusercontent.com/90627497/157759732-7e0debbf-ef55-4632-b140-e4e2341f908e.png)
-![image](https://user-images.githubusercontent.com/90627497/157759794-dc2b87b5-dd72-403d-bd23-2c3bd265aa81.png)
-![image](https://user-images.githubusercontent.com/90627497/157759831-1bb48e99-667f-4ccb-879e-c7cd962f163b.png)
-![image](https://user-images.githubusercontent.com/90627497/157760387-81bd28ec-0b89-4933-b5a4-c71d20ea49e3.png)
-![image](https://user-images.githubusercontent.com/90627497/157760662-899f5e91-a5bd-43fc-9939-6bfa93fc2f5e.png)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
 #### Back End
 
-![image](https://user-images.githubusercontent.com/90627497/158056391-276f5cda-9129-47c6-a610-a44f32b9a618.png)
-![image](https://user-images.githubusercontent.com/90627497/157759971-0145be57-16c3-417c-b087-6e9972286dcd.png)
-![image](https://user-images.githubusercontent.com/90627497/157760113-bc8f6079-9799-4743-84d3-dcdc98ad0bcd.png)
-![image](https://user-images.githubusercontent.com/90627497/157760191-22f44d79-5e22-43a7-b26d-4dc78f019c34.png)
-![image](https://user-images.githubusercontent.com/90627497/157760229-10c71b2b-cdd6-4456-8e21-d0a3f4662d7a.png)
-![image](https://user-images.githubusercontent.com/90627497/158056347-d09aa75f-a336-4bf8-8a5b-9cd03f5710bd.png)
-![image](https://user-images.githubusercontent.com/90627497/157760276-4020d8d9-f9f7-483f-a3fd-91fa90abd551.png)
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 #### Design
 
-![image](https://user-images.githubusercontent.com/90627497/157760822-cb19fbb4-ed7a-49d5-83a2-5710436a82e7.png)
-![image](https://user-images.githubusercontent.com/90627497/157760843-17afff37-91f7-46d2-8f19-6c21af7b2eea.png)
-![image](https://user-images.githubusercontent.com/90627497/157760904-66b2f266-5a66-4131-a7ab-b021cfbf2075.png)
+![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <hr />
 
