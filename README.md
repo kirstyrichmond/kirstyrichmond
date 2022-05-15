@@ -2,8 +2,6 @@
 
 ### Welcome to my github! :wave:
 
-I am a recent software developer graduate looking for my first exciting role in tech!
-
 I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a professional background in the health and care sector.
 
