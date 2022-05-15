@@ -2,7 +2,7 @@
 
 ### Welcome to my github! :wave:
 
-I have a passion for helping people and I would love to use my coding skills to help better peoples lives :earth_africa: . 
+I have a passion for helping people and I would love to use my programming skills to help better peoples lives :earth_africa: . 
 I have an academic background in Graphic Design and Visual Communication and a professional background in the health and care sector.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirstyrichmond/)
